@@ -28,4 +28,4 @@ print(df.info())
 
 
 
-df.to_excel("clean_cafe_sales.xlsx", index = False)
+df.to_excel("czyste_sprzedaz.xlsx", index = False)
