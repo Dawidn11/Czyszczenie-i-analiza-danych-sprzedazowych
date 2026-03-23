@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-df = pd.read_csv("brudne_dane.csv",decimal=",")
+df = pd.read_csv("brudne_sprzedaz.csv",decimal=",")
 
 pd.set_option('display.max_columns', None)
 print(df.head(10))
